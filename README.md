@@ -1,1 +1,1 @@
-# SeecureCoding
+# SecureCoding
